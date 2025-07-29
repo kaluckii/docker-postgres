@@ -1,4 +1,4 @@
-# 🚀 docker-postgre (PostgreSQL with TCP proxy over port 443)
+# docker-postgre (PostgreSQL with TCP proxy over port 443)
 
 A minimal and portable Docker setup for running PostgreSQL with external access via **port 443** using an `nginx` TCP proxy. Useful for cloud environments like Google Cloud where ports like 5432 are restricted.
 
